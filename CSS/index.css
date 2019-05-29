@@ -1,0 +1,348 @@
+/* #172328
+#157D7C
+#6EBDDB
+#C7DDCC
+#FEFEFD */
+
+/* .container {
+  border: solid red;
+} */
+
+/* p {
+  border: solid red;
+} */
+
+html * {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* h1,
+h2,
+h3,
+h4,
+h5 {
+  border: solid red;
+} */
+
+/* .healthFood2IMG {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  margin: 0 auto;
+  height: 500px;
+  background-image: url(../IMGS/healthfoods2.jpg);
+  background-size: 100%;
+  color: black;
+  padding-top: -100px;
+} */
+
+/* FOOD 2 /////////////////////////////////// */
+
+.healthFood2Container {
+  /* border: solid red; */
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
+}
+
+.food2img {
+  height: 350px;
+  margin-top: 70px;
+}
+
+.food2text h6 {
+  font-size: 25px;
+  margin: 10px;
+}
+
+/* /////////////////////////////////////////////////////// */
+
+/* FOOD 3 ////////////////////////////////// */
+
+.healthFood3Container {
+  /* border: solid red; */
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
+  flex-direction: row-reverse;
+}
+
+.food3img {
+  height: 350px;
+  margin-top: 70px;
+}
+
+.food3text h6 {
+  font-size: 25px;
+  margin: 10px;
+}
+
+/* //////////////////////////////////////////////////////// */
+
+/* FOOD 4 //////////////// */
+
+.healthFood4Container {
+  /* border: solid red; */
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
+}
+
+.food4img {
+  height: 350px;
+  margin-top: 70px;
+}
+
+.food4text h6 {
+  font-size: 25px;
+  margin: 10px;
+}
+
+/* //////////////////////////////////////// */
+
+/* FOOD 5 //////////////////////////////////////// */
+
+.healthFood5Container {
+  /* border: solid red; */
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
+  flex-direction: row-reverse;
+}
+
+.food5img {
+  height: 350px;
+  margin-top: 70px;
+}
+
+.food5text h6 {
+  font-size: 25px;
+  margin: 10px;
+}
+
+/* /////////////////////////////////////// */
+
+/* FOOD 6 ////////////////////////////////////// */
+
+.healthFood6Container {
+  /* border: solid red; */
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
+}
+
+.food6img {
+  height: 350px;
+  margin-top: 70px;
+}
+
+.food6text h6 {
+  font-size: 25px;
+  margin: 10px;
+}
+
+/* //////////////////////////////// */
+
+.healthFoodIMG {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  height: 410px;
+  background-image: url(../IMGS/healthfoods.jpg);
+  background-size: 100%;
+  color: black;
+  padding-top: -100px;
+}
+
+.healthFoodIMG h3 {
+  margin-top: 40px;
+}
+
+.fitnessIMG {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  height: 475px;
+  background-image: url(../IMGS/fitness.jpg);
+  background-size: 100%;
+  color: white;
+  border-bottom: 3px solid #fefefd;
+}
+
+.fitnessIMG h4 {
+  margin-right: 530px;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.logo {
+  display: inline-flex;
+  /* border: 1px solid red; */
+  flex-direction: column;
+  color: #fefefd;
+  margin-top: 8px;
+  font-style: italic;
+  margin-left: 10px;
+}
+
+.signUp {
+  /* border: 1px solid red; */
+  background-color: #157d7c;
+  width: 80px;
+  margin: 5px;
+  padding: 2px;
+  margin-left: 3px;
+}
+
+header nav {
+  border: 2px solid #fefefd;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  background-color: #172328;
+  height: 40px;
+}
+
+header nav a {
+  align-content: space-between;
+  margin: 0 auto;
+  color: #fefefd;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 8px;
+}
+
+/* h1 {
+  display: flex;
+  margin: 0 auto;
+}  */
+
+div h1 {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  font-size: 80px;
+}
+
+div h4 {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+div h3 {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+div button {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  margin: 0 auto;
+}
+
+/* div h2 {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+} */
+
+/* div p {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+} */
+
+/* h5 {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+}
+
+ul {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+} */
+
+.footer {
+  border: 2px solid #fefefd;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  background-color: #172328;
+  height: 150px;
+}
+
+/* .footerParts {
+  display: flex;
+  align-content: space-between;
+} */
+
+.features {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  color: #fefefd;
+}
+
+.resources {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  color: #fefefd;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  color: #fefefd;
+}
+
+.about h5,
+.resources h5,
+.features h5 {
+  font-size: 20px;
+  margin: 15px;
+  font-style: italic;
+}
+
+.about a,
+.resources a,
+.features a {
+  text-decoration: none;
+  color: #c7ddcc;
+}
