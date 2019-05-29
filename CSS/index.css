@@ -346,3 +346,192 @@ ul {
   text-decoration: none;
   color: #c7ddcc;
 }
+
+/* Media queries //////////////////////////////////////////////////////////// */
+
+@media (max-width: 600px) {
+  p {
+    font-size: 50px;
+  }
+
+  .food6text h6,
+  .food5text h6,
+  .food4text h6,
+  .food3text h6,
+  .food2text h6 {
+    font-size: 53px;
+  }
+
+  div h3 {
+    font-size: 39px;
+  }
+
+  .healthFoodIMG {
+  }
+
+  .healthFood3Container,
+  .healthFood4Container,
+  .healthFood5Container,
+  .healthFood2Container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .footer {
+    margin: 0px;
+    height: 200px;
+  }
+  .healthFood6Container {
+    display: none;
+  }
+  .fitnessIMG {
+    display: none;
+  }
+  header nav {
+    width: 811px;
+  }
+  header nav a {
+    font-size: 27px;
+  }
+  .food5img,
+  .food4img,
+  .food3img,
+  .food2img {
+    height: 600px;
+    margin-top: 5px;
+  }
+  .about h5,
+  .resources h5,
+  .features h5 {
+    font-size: 30px;
+  }
+  .about a,
+  .resources a,
+  .features a {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  p {
+    font-size: 50px;
+  }
+  .food6text h6,
+  .food5text h6,
+  .food4text h6,
+  .food3text h6,
+  .food2text h6 {
+    font-size: 53px;
+  }
+
+  div h3 {
+    font-size: 39px;
+  }
+
+  .healthFoodIMG {
+  }
+
+  .healthFood3Container,
+  .healthFood4Container,
+  .healthFood5Container,
+  .healthFood2Container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .footer {
+    margin: 0px;
+    height: 200px;
+  }
+  .healthFood6Container {
+    display: none;
+  }
+  .fitnessIMG {
+    display: none;
+  }
+  header nav {
+    width: 811px;
+  }
+  header nav a {
+    font-size: 27px;
+  }
+  .food5img,
+  .food4img,
+  .food3img,
+  .food2img {
+    height: 600px;
+    margin-top: 5px;
+  }
+  .about h5,
+  .resources h5,
+  .features h5 {
+    font-size: 30px;
+  }
+  .about a,
+  .resources a,
+  .features a {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1025px) {
+  p {
+    font-size: 50px;
+  }
+  .food6text h6,
+  .food5text h6,
+  .food4text h6,
+  .food3text h6,
+  .food2text h6 {
+    font-size: 53px;
+  }
+
+  div h3 {
+    font-size: 39px;
+  }
+
+  .healthFoodIMG {
+  }
+
+  .healthFood3Container,
+  .healthFood4Container,
+  .healthFood5Container,
+  .healthFood2Container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .footer {
+    margin: 0px;
+    height: 200px;
+  }
+  .healthFood6Container {
+    display: none;
+  }
+  .fitnessIMG {
+    display: none;
+  }
+  header nav {
+    width: 811px;
+  }
+  header nav a {
+    font-size: 27px;
+  }
+  .food5img,
+  .food4img,
+  .food3img,
+  .food2img {
+    height: 600px;
+    margin-top: 5px;
+  }
+  .about h5,
+  .resources h5,
+  .features h5 {
+    font-size: 30px;
+  }
+  .about a,
+  .resources a,
+  .features a {
+    font-size: 20px;
+  }
+}
