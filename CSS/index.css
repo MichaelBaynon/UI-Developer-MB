@@ -2,7 +2,7 @@
 #157D7C
 #6EBDDB
 #C7DDCC
-#FEFEFD */
+ #FEFEFD */
 
 /* .container {
   border: solid red;
@@ -381,18 +381,23 @@ ul {
     margin: 0px;
     height: 200px;
   }
+
   .healthFood6Container {
     display: none;
   }
+
   .fitnessIMG {
     display: none;
   }
+
   header nav {
     width: 811px;
   }
+
   header nav a {
     font-size: 27px;
   }
+
   .food5img,
   .food4img,
   .food3img,
@@ -400,11 +405,13 @@ ul {
     height: 600px;
     margin-top: 5px;
   }
+
   .about h5,
   .resources h5,
   .features h5 {
     font-size: 30px;
   }
+
   .about a,
   .resources a,
   .features a {
@@ -416,6 +423,7 @@ ul {
   p {
     font-size: 50px;
   }
+
   .food6text h6,
   .food5text h6,
   .food4text h6,
@@ -443,18 +451,23 @@ ul {
     margin: 0px;
     height: 200px;
   }
+
   .healthFood6Container {
     display: none;
   }
+
   .fitnessIMG {
     display: none;
   }
+
   header nav {
     width: 811px;
   }
+
   header nav a {
     font-size: 27px;
   }
+
   .food5img,
   .food4img,
   .food3img,
@@ -462,11 +475,13 @@ ul {
     height: 600px;
     margin-top: 5px;
   }
+
   .about h5,
   .resources h5,
   .features h5 {
     font-size: 30px;
   }
+
   .about a,
   .resources a,
   .features a {
@@ -478,6 +493,7 @@ ul {
   p {
     font-size: 50px;
   }
+
   .food6text h6,
   .food5text h6,
   .food4text h6,
@@ -505,18 +521,23 @@ ul {
     margin: 0px;
     height: 200px;
   }
+
   .healthFood6Container {
     display: none;
   }
+
   .fitnessIMG {
     display: none;
   }
+
   header nav {
     width: 811px;
   }
+
   header nav a {
     font-size: 27px;
   }
+
   .food5img,
   .food4img,
   .food3img,
@@ -524,11 +545,13 @@ ul {
     height: 600px;
     margin-top: 5px;
   }
+
   .about h5,
   .resources h5,
   .features h5 {
     font-size: 30px;
   }
+
   .about a,
   .resources a,
   .features a {
