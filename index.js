@@ -69,3 +69,11 @@ const filteredPeople = people.filter(person => {
 });
 
 console.log(filteredPeople);
+
+// DOM manipulation
+
+var queryNutrition = document.querySelector(".nutritionDOM");
+
+var text = "<h6>Nutrition can be intimidating.<h6>";
+
+queryNutrition.innerHTML = text;
